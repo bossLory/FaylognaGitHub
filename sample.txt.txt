@@ -1,1 +1,2 @@
 sample text
+print(bobo wen boo ka)
